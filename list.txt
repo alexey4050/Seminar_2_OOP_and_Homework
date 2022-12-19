@@ -1,0 +1,5 @@
+Cat{nickName='Barsik', legs=4, owner='Alexey'}
+Dog{nickName='Sharik', legs=4, owner='Andrey'}
+Duck{nickName='McDonald', legs=2, owner='Egor'}
+Eagle{nickName='Gery', legs=2, owner='Damir'}
+Fish{nickName='Dory', legs=0, owner='Anton'}
